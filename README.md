@@ -1,7 +1,4 @@
-![Logo](/logo.svg)
-
-[![](https://img.shields.io/badge/React%20Hebrew%20DatePicker-%23228B22?style=for-the-badge&logo=)](#)
-- <kbd>You can customize React-Hebrew-DatePicker to (almost) any language</kbd>
+<p align="center"><a target="_blank" rel="noopener noreferrer" href="/meir-gazit/React-Hebrew-DatePicker/blob/main/logo.svg"><br /><img src="https://img.shields.io/badge/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-%23228B22?style=for-the-badge&logo=" alt="React-Hebrew-DatePicke" style="max-width:100%;"><br /><img src="https://github.com/meir-gazit/React-Hebrew-DatePicker/raw/main/logo.svg" alt="Logo" style="max-width:100%;"><br /><kbd>You can customize React-Hebrew-DatePicker to (almost) any language</kbd><br /><img src="https://img.shields.io/badge/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-%23228B22?style=for-the-badge&logo=" alt="React-Hebrew-DatePicke" style="max-width:100%;"></a></p>
 
 [![](https://img.shields.io/badge/-In%20general-%23FFD700?style=for-the-badge&logo=)](#)
 -----------------------------------
@@ -74,7 +71,7 @@ after cloning the repo just run npm install or yarn add .
  
 </details>
 
-
+<br /><br />
 
  [![](https://img.shields.io/badge/Enjoy%20&%20have%20fun!-%23FFD700?style=for-the-badge&logo=)](#)
 
